@@ -1,0 +1,16 @@
+-It takes 8 bits, or one byte to reresent the values from 0 to 255.
+-It takes 3 bytes, or 24 bits to represent a color in the RGB Color Model.
+-There are 307,200 pixles in a picture that is 640 x 480 pixels.
+
+-Pink can be made by setting G to 0, and R & B to 255.
+-Yellow can be made by setting B to 0, and R & G to 255.
+-Purple can be made by setting G to 0, B to 255, and R to somewhere around 200.
+-White can be made by setting R,G, and B all to 255.
+-Black can be made by setting R,G, and B all to 0.
+
+-The row index for the top-left corner of the picture is 1.
+-The column index for the top-left corner of the picture is 1.
+-The right most column index is 639.
+-The bottom most row idex is 479.
+-The row index increases from top to bottom.
+-The column index increases from left to right.
